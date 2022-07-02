@@ -1,5 +1,5 @@
 # Change-Data-Capture-using-PySpark-in-AWS
-The core intention of this project is to get idea about PySpark and handful of AWS technologies like :
+The core intention of this project is to get idea about **PySpark** and handful of **AWS** technologies like :
 - AWS Relational Database Services(RDS) 
 - AWS Simple Storage Service(S3)
 - AWS Database Migration Service (DMS)
